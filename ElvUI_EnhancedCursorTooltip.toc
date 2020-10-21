@@ -1,0 +1,9 @@
+## Interface: 90001
+## Title: |cff1784d1ElvUI|r |cff00b3ffEnhanced Cursor Tooltip|r
+## Notes: Shows non-player tooltips next to the cursor. Player-based tooltips are shown at the configured location.
+## Author: Summ
+## Version: 1.0
+## DefaultState: enabled
+## RequiredDeps: ElvUI
+
+Core.lua
